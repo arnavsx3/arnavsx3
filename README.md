@@ -2,7 +2,7 @@
 
 ### Hey, I'm Arnav 👋
 
-I build cloud native apps and automate the pipelines that ship them.
+I like to build cloud native apps and automate the pipelines that ship them.
 
 <br/>
 
