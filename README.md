@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <img src="./assets/banner-light.svg" width="85%" alt="arnavsx3" />
-</picture>
+<img src="./assets/mandalorian-banner.png" width="100%" alt="arnavsx3 — the Mandalorian in a blue misty forest beneath a starry sky" />
 
 <br />
 <br />
