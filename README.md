@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mandalorian-banner.png" width="100%" alt="arnavsx3 — the Mandalorian in a blue misty forest beneath a starry sky" />
+<img src="./assets/banner.png" width="100%" alt="arnavsx3 in Star Wars-inspired lettering over a sketched blue forest" />
 
 <h2>Hey! I'm Arnav.</h2>
 
