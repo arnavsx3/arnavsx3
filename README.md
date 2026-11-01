@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/pipeline.svg" width="960" alt="From commit to cluster: commit → build → provision → deploy → observe" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <img src="./assets/banner-light.svg" width="85%" alt="arnavsx3" />
+</picture>
 
 <br />
 <br />
