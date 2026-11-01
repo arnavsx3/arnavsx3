@@ -1,21 +1,28 @@
-# Arnav
+<div align="center">
 
-Building cloud native applications and automating the pipelines that ship them.
+<img src="./assets/pipeline.svg" width="960" alt="From commit to cluster: commit → build → provision → deploy → observe" />
 
-I'm interested in the path from code to production: reproducible infrastructure, automated delivery, and systems that are easy to observe and operate.
+<br />
+<br />
 
-### Tools I work with
+Hey! I'm Arnav. I like to build cloud native apps and automate the pipelines that ship them.
 
-| Area | Tools |
-| --- | --- |
-| Infrastructure | AWS, Terraform, Linux |
-| Containers & orchestration | Docker, Kubernetes |
-| Continuous delivery | GitHub Actions, Jenkins |
-| Observability | Prometheus, Grafana |
-| Version control | Git, GitHub |
+<br />
 
-### Currently exploring
+<samp>the tools along the way</samp>
 
-Contributing to open source, with a focus on cloud infrastructure and developer tooling.
+<br />
+<br />
 
-[Get in touch](mailto:arnavsx3dev@gmail.com)
+<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,docker,kubernetes,aws,terraform,prometheus,grafana,linux&amp;perline=10" height="36" alt="Git, GitHub Actions, Jenkins, Docker, Kubernetes, AWS, Terraform, Prometheus, Grafana, Linux" />
+
+<br />
+<br />
+
+<samp>
+<a href="https://github.com/arnavsx3?tab=repositories">explore my repos</a>
+&nbsp; / &nbsp;
+<a href="mailto:arnavsx3dev@gmail.com">say hello</a>
+</samp>
+
+</div>
