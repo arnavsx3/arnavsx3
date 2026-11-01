@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="arnavsx3 in Star Wars-inspired lettering over a sketched blue forest" />
 
-<h2>Hey! I'm Arnav.</h2>
+<h2>Hello there! I'm Arnav.</h2>
 
 <p>I like to build cloud native apps and automate the pipelines that ship them.</p>
 
