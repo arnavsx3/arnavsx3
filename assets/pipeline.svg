@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+<title id="title">From commit to cluster</title><desc id="desc">A deployment pipeline: commit, build, provision, deploy, observe.</desc>
+<rect width="960" height="250" rx="16" fill="#0d1117"/>
+<g font-family="monospace"><text x="36" y="39" fill="#8b949e" font-size="12" letter-spacing="3">ARNAV / FROM COMMIT TO CLUSTER</text>
+<circle cx="905" cy="35" r="4" fill="#56d4b0"/>
+<path d="M120 124H840" stroke="#303d4d" stroke-width="2"/>
+<g fill="#121c28" stroke="#34516a"><rect x="36" y="88" width="152" height="72" rx="10"/><rect x="220" y="88" width="152" height="72" rx="10"/><rect x="404" y="88" width="152" height="72" rx="10"/><rect x="588" y="88" width="152" height="72" rx="10"/><rect x="772" y="88" width="152" height="72" rx="10"/></g>
+<g fill="#56d4b0" font-size="11"><text x="52" y="109">01</text><text x="236" y="109">02</text><text x="420" y="109">03</text><text x="604" y="109">04</text><text x="788" y="109">05</text></g>
+<g fill="#e6edf3" font-size="17"><text x="52" y="140">commit</text><text x="236" y="140">build</text><text x="420" y="140">provision</text><text x="604" y="140">deploy</text><text x="788" y="140">observe</text></g>
+<g fill="#8b949e" font-size="11"><text x="52" y="184">Git / Actions</text><text x="236" y="184">Docker</text><text x="420" y="184">AWS / Terraform</text><text x="604" y="184">Kubernetes</text><text x="788" y="184">Prometheus</text></g>
+<path d="M36 207H924" stroke="#212b36"/><text x="36" y="231" fill="#8b949e" font-size="11">cloud native apps · infrastructure · delivery pipelines</text>
+</g></svg>
